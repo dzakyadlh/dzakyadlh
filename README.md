@@ -5,7 +5,7 @@ I am currently an undergraduate student with Engineering Physics major. I have a
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning android development with Kotlin
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me: dzakyadlh.work@gmail.com
+- 📫 How to reach me: dzakyadlh@gmail.com
 
 ### Github Statistics
 
