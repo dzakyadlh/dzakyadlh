@@ -1,10 +1,10 @@
 ### Hello World! I am Dzaky
 
-I am currently an undergraduate student with Engineering Physics major. I have a huge passion in creating and designing websites and apps. I am aiming to become an outstanding and independent Full Stack Developer in the near future.
+I am currently an undergraduate student with Engineering Physics major. I have a huge passion in creating and designing websites and apps. I am aiming to become an outstanding and independent Software Engineer in the near future.
 
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning android development with Kotlin
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning mobile app development with Flutter
+- 💞️ I’m looking to collaborate on website and native Android app projects
 - 📫 How to reach me: dzakyadlh@gmail.com
 
 ### Github Statistics
