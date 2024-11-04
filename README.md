@@ -1,11 +1,11 @@
 ### Hello World! I am Dzaky
 
-I am currently an undergraduate student with Engineering Physics major. I have a huge passion in creating and designing websites and apps. I am aiming to become an outstanding and independent Software Engineer in the near future.
+Fresh graduate from Sepuluh Nopember Institute of Technology with Engineering Physics major. I have a huge passion in creating and designing websites and apps. Feel free to contact me for collaborations!
 
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning mobile app development with Flutter
-- 💞️ I’m looking to collaborate on website and native Android app projects
-- 📫 How to reach me: dzakyadlh@gmail.com
+- 👀 I’m interested in web and mobile app development
+- 🌱 I’m currently learning game development with Unreal Engine 5
+- 💞️ I’m looking to collaborate on website and mobile app projects
+- 📫 How to reach me: dzakyadlh.work@gmail.com
 
 ### Github Statistics
 
