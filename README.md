@@ -1,9 +1,9 @@
 ### Hello World! I am Dzaky
 
-Fresh graduate from Sepuluh Nopember Institute of Technology with Engineering Physics major. I have a huge passion in creating and designing websites and apps. Feel free to contact me for collaborations!
+Fresh graduate from Sepuluh Nopember Institute of Technology with Engineering Physics major. Currently working as a DevOps engineer at one of the biggest bank in Indonesia. I have a huge passion in creating and designing websites and apps. Feel free to contact me for collaborations!
 
-- 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning game development with Unreal Engine 5
+- 👀 I’m experienced in web and mobile app development
+- 🌱 I’m currently learning game development with Unity and Unreal Engine 5
 - 💞️ I’m looking to collaborate on website and mobile app projects
 - 📫 How to reach me: dzakyadlh.work@gmail.com
 
